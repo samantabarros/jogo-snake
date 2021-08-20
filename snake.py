@@ -1,10 +1,10 @@
-#* ***************************************************************************
+#* *************************************************************************************
 # Autor: Samanta S. Barros
 # Inicio: 01/05/2021
 # Ultima alteracao: 20/08/2021
 # Nome: Snake
-# Funcao: Simular um estado simples do famoso jogo da cobrinha usando python
-#*****************************************************************************
+# Funcao: Simular uma parte do funcionamento do famoso jogo da cobrinha usando python
+#**************************************************************************************
 
 import pygame
 import random
