@@ -1,1 +1,1 @@
-#Jogo da cobrinha em Python
+# Jogo da cobrinha em Python (Básico) 🐍
